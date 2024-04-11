@@ -1,0 +1,21 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‚µ íÿÿÿÿÿ8’æ…„æ1H›RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(‹î¥38‘Ôˆ„æ1HœRMAJORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(“™À¿8áç•„æ1HRMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(ğê®ïüÿÿÿÿ8áç•„æ1HRMAJORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(â½¢Ø8ˆÚÏ‘æ1HŸRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(›Ë ¿úÿÿÿÿ8‘Ôˆ„æ1H RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ãîÔÙ8‘©ç„æ1H¡RMAJORZ
+CODE_SMELL
+]
+java:S5411"*Use the primitive boolean expression here.(í‚È…8ôÀÜ‚æ1H¢RMINORZ
+CODE_SMELL
+Y
+java:S1068	"(Remove this unused "scan" private field.(„İ¾¯ûÿÿÿÿH¥RMAJORZ
+CODE_SMELL

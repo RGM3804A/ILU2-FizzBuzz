@@ -1,0 +1,12 @@
+
+k	java:S106,"9Replace this use of System.out or System.err by a logger.(®ˆò8âÔ¨ñã1HˆRMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(êì›Óúÿÿÿÿ8ñşğã1H‰RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûıHŠRMAJORZ
+CODE_SMELL
+i	java:S1063"9Replace this use of System.out or System.err by a logger.(ìÚáıÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+Z
+java:S1659."'Declare "potionMax" on a separate line.(‘•ƒ«8ó¡ñã1HŒRMINORZ
+CODE_SMELL

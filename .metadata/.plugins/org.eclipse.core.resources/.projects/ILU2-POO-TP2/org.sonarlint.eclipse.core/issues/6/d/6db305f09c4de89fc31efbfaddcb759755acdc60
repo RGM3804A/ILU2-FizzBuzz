@@ -1,0 +1,16 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(·“”«üÿÿÿÿ8ğ’ëÌê1H„RMAJORZ
+CODE_SMELL
+„
+java:S1192"NDefine a constant instead of duplicating this literal "Abraracourcix" 3 times.(åÅ¿™8ØÁÎê1H«RCRITICALZ
+CODE_SMELL
+
+java:S1450"\Remove the "abraracourcix" field and declare it as a local variable in the relevant methods.(Ï×ÜÙ8ğ’ëÌê1H…RMINORZ
+CODE_SMELL
+s	java:S125 "<This block of commented-out lines of code should be removed.(²«÷¯ùÿÿÿÿ8ÔÂÍê1H‰RMAJORZ
+CODE_SMELL
+W
+java:S5960"+Remove this assertion from production code.(µåø»8ü—…Íê1HˆRMAJORZBUG
+h
+java:S1128	"0Remove this unused import 'villagegaulois.Etal'.(›³Çªøÿÿÿÿ8öí”Íê1H†RMINORZ
+CODE_SMELL

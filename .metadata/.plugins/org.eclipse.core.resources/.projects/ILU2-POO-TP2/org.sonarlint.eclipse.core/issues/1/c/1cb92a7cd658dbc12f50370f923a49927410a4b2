@@ -1,0 +1,31 @@
+
+d	java:S1069"9Replace this use of System.out or System.err by a logger.(ÆÀûıHøRMAJORZ
+CODE_SMELL
+i	java:S106X"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHùRMAJORZ
+CODE_SMELL
+i	java:S106r"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHúRMAJORZ
+CODE_SMELL
+e	java:S106‡"9Replace this use of System.out or System.err by a logger.(­óÅHûRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHüRMAJORZ
+CODE_SMELL
+i	java:S106R"9Replace this use of System.out or System.err by a logger.(ğµÃ ıÿÿÿÿHıRMAJORZ
+CODE_SMELL
+d	java:S106o"9Replace this use of System.out or System.err by a logger.(˜ü¶šHşRMAJORZ
+CODE_SMELL
+d	java:S106U"9Replace this use of System.out or System.err by a logger.(˜ü¶šHÿRMAJORZ
+CODE_SMELL
+™
+java:S1192U"jDefine a constant instead of duplicating this literal "Vous devez entrer un chiffre entre 1 et 3" 3 times.(˜ü¶šH€RCRITICALZ
+CODE_SMELL
+i	java:S106)"9Replace this use of System.out or System.err by a logger.(ˆü§ùøÿÿÿÿH„RMAJORZ
+CODE_SMELL
+e	java:S106Š"9Replace this use of System.out or System.err by a logger.(˜ü¶šH…RMAJORZ
+CODE_SMELL
+Š
+java:S1192H"[Define a constant instead of duplicating this literal "3 - quitter l'application." 3 times.(¡²×ôH†RCRITICALZ
+CODE_SMELL
+d	java:S106l"9Replace this use of System.out or System.err by a logger.(…ù­HŠRMAJORZ
+CODE_SMELL
+d	java:S1066"9Replace this use of System.out or System.err by a logger.(õşÿÁH‹RMAJORZ
+CODE_SMELL

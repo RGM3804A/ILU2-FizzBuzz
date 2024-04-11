@@ -1,0 +1,12 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(âÃÌ¡üÿÿÿÿ8Œ÷ÛÀâ1HËRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(¹æß“8Ã—ÈÅâ1HÌRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(óãÜŒşÿÿÿÿ8Û ²Åâ1HÍRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ªê‚8Û ²Åâ1HÎRMAJORZ
+CODE_SMELL
+e
+java:S1128"-Remove this unused import 'personnages.Chef'.(¦½ÒÚıÿÿÿÿ8úÑê½â1HÏRMINORZ
+CODE_SMELL

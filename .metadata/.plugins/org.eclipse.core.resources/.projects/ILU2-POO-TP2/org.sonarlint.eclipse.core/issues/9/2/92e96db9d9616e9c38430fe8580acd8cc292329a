@@ -1,0 +1,18 @@
+
+
+java:S1450"\Remove the "abraracourcix" field and declare it as a local variable in the relevant methods.(Ï×ÜÙ8ü¾öËê1H¥RMINORZ
+CODE_SMELL
+\
+java:S5960"+Remove this assertion from production code.(÷ëŞùÿÿÿÿ8ü¾öËê1H«RMAJORZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(·“”«üÿÿÿÿ8ü¾öËê1H§RMAJORZ
+CODE_SMELL
+~
+java:S1192#"HDefine a constant instead of duplicating this literal "Asterix" 3 times.(‘©›ì8˜²®Îê1H“RCRITICALZ
+CODE_SMELL
+„
+java:S1192"NDefine a constant instead of duplicating this literal "Abraracourcix" 3 times.(åÅ¿™8˜²®Îê1H—RCRITICALZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(İ‹ú8˜²®Îê1H›RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(£ÉÙüÿÿÿÿ8˜²®Îê1HœRMAJORZ
+CODE_SMELL

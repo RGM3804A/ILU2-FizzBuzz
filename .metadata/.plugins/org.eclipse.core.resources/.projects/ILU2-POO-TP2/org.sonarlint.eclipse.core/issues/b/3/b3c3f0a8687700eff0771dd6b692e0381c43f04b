@@ -1,0 +1,58 @@
+
+p
+java:S1128"=Remove this unused import 'controleur.ControlAfficherMarche'.(¤÷ïÈ8«Ù‰Äê1H­RMINORZ
+CODE_SMELL
+l	java:S125 "<This block of commented-out lines of code should be removed.(ìóÚ°ýÿÿÿÿHÛRMAJORZ
+CODE_SMELL
+g	java:S1255"<This block of commented-out lines of code should be removed.(ï˜Þ–HåRMAJORZ
+CODE_SMELL
+h	java:S125—"<This block of commented-out lines of code should be removed.(ï˜Þ–H˜RMAJORZ
+CODE_SMELL
+X
+java:S1481",Remove this unused "asterix" local variable.(Î‘ƒáH¡RMINORZ
+CODE_SMELL
+p
+java:S1128"8Remove this unused import 'controleur.ControlEmmenager'.(šõÐÉúÿÿÿÿ8«Ù‰Äê1H¯RMINORZ
+CODE_SMELL
+y
+java:S1128	"ARemove this unused import 'controleur.ControlTrouverEtalVendeur'.(¿þ Ýøÿÿÿÿ8«Ù‰Äê1HµRMINORZ
+CODE_SMELL
+v
+java:S1854"JRemove this useless assignment to local variable "controlAfficherVillage".(ä…í¿H£RMAJORZ
+CODE_SMELL
+g
+java:S1854";Remove this useless assignment to local variable "asterix".(Î‘ƒáH†RMAJORZ
+CODE_SMELL
+g	java:S125G"<This block of commented-out lines of code should be removed.(ï˜Þ–H¤RMAJORZ
+CODE_SMELL
+W
+java:S1481"+Remove this unused "obelix" local variable.(Ó‹Ü¹H–RMINORZ
+CODE_SMELL
+u
+java:S1128"=Remove this unused import 'controleur.ControlAcheterProduit'.(ï˜þÙûÿÿÿÿ8«Ù‰Äê1H«RMINORZ
+CODE_SMELL
+w
+java:S1128
+"?Remove this unused import 'controleur.ControlVerifierIdentite'.(Üþ¨þûÿÿÿÿ8«Ù‰Äê1H·RMINORZ
+CODE_SMELL
+g	java:S125s"<This block of commented-out lines of code should be removed.(ï˜Þ–H‡RMAJORZ
+CODE_SMELL
+f
+java:S1854":Remove this useless assignment to local variable "obelix".(Ó‹Ü¹H…RMAJORZ
+CODE_SMELL
+h	java:S125®"<This block of commented-out lines of code should be removed.(ï˜Þ–HýRMAJORZ
+CODE_SMELL
+m
+java:S1128":Remove this unused import 'controleur.ControlPrendreEtal'.(§Ö¯¼8«Ù‰Äê1H³RMINORZ
+CODE_SMELL
+h
+java:S1128"0Remove this unused import 'villagegaulois.Etal'.(›³Çªøÿÿÿÿ8«Ù‰Äê1H¹RMINORZ
+CODE_SMELL
+g
+java:S1481";Remove this unused "controlAfficherVillage" local variable.(ä…í¿H©RMINORZ
+CODE_SMELL
+m
+java:S1128":Remove this unused import 'controleur.ControlLibererEtal'.(³ú‰‰8«Ù‰Äê1H±RMINORZ
+CODE_SMELL
+g	java:S125U"<This block of commented-out lines of code should be removed.(ï˜Þ–HìRMAJORZ
+CODE_SMELL

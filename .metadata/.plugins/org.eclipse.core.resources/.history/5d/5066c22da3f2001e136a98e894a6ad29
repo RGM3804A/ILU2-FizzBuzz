@@ -1,0 +1,9 @@
+package produit;
+
+public class Poisson extends Produit {
+	private String datePeche;
+	
+	public String getDescription() {
+		return "Poisson pêchès " + datePeche;
+	}
+}

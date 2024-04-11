@@ -1,0 +1,28 @@
+
+k	java:S106,"9Replace this use of System.out or System.err by a logger.(æãŞÎ8×Ãı¤á1H¬RMAJORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(Æøôç8°Ã¸¥á1HºRMAJORZ
+CODE_SMELL
+p	java:S106."9Replace this use of System.out or System.err by a logger.(£²”äüÿÿÿÿ8»®ìÂá1HªRMAJORZ
+CODE_SMELL
+k	java:S106/"9Replace this use of System.out or System.err by a logger.(Œ»ÕÙ8ï¿ğã1H	RMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(¹Ï¡©şÿÿÿÿ8º ²Ãá1H¸RMAJORZ
+CODE_SMELL
+‚
+java:S1192""GDefine a constant instead of duplicating this literal "fleurs" 5 times.(Ü«Øˆıÿÿÿÿ8¨Ñ¾¥á1H¯RCRITICALZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(²öù8»®ìÂá1H®RMAJORZ
+CODE_SMELL
+j	java:S106-"9Replace this use of System.out or System.err by a logger.(§êq8»®ìÂá1H­RMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(Ü«Øˆıÿÿÿÿ8»®ìÂá1H·RMAJORZ
+CODE_SMELL
+k	java:S106+"9Replace this use of System.out or System.err by a logger.(ÿ€ù²8º ²Ãá1H¶RMAJORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(Ü«Øˆıÿÿÿÿ8º ²Ãá1H¹RMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(Ü«Øˆıÿÿÿÿ8Ï¼”Ãá1HµRMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(²ÿ¶û8º ²Ãá1H«RMAJORZ
+CODE_SMELL

@@ -1,0 +1,37 @@
+
+k	java:S106<"9Replace this use of System.out or System.err by a logger.(Ø©Ä©8‹Ïø§ç1HşRMAJORZ
+CODE_SMELL
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(‘—øûÿÿÿÿ8“„Ë†ç1HıRMAJORZ
+CODE_SMELL
+b
+java:S54112"*Use the primitive boolean expression here.(˜®†Êúÿÿÿÿ8“âÈ‹ç1HùRMINORZ
+CODE_SMELL
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(òÏõ’ıÿÿÿÿ8óúó‡ç1HåRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(öàñˆûÿÿÿÿ8ØÇµ§ç1HüRMAJORZ
+CODE_SMELL
+Y
+java:S1068
+"(Remove this unused "scan" private field.(„İ¾¯ûÿÿÿÿHëRMAJORZ
+CODE_SMELL
+s
+java:S2259="BA "NullPointerException" could be thrown; "etal" is nullable here.(½ÉÔîıÿÿÿÿ8Ô°ğ‰ç1H“RMAJORZBUG
+]
+java:S1659,"%Declare "produit" on a separate line.(©ÓÃşıÿÿÿÿ8Üä–‰ç1HæRMINORZ
+CODE_SMELL
+]
+java:S54116"*Use the primitive boolean expression here.(Ê¹ÆŸ8“âÈ‹ç1HâRMINORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(œŠüÿÿÿÿ8óúó‡ç1HèRMAJORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(ı¹İİıÿÿÿÿ8óÕ§ç1HéRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ø–™øÿÿÿÿ8ÜÏàˆç1HáRMAJORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(÷âÇË8Ëãı†ç1HêRMAJORZ
+CODE_SMELL
+]
+java:S5411"*Use the primitive boolean expression here.(ËŸ€æ8“âÈ‹ç1HÿRMINORZ
+CODE_SMELL
+m	java:S125E"<This block of commented-out lines of code should be removed.(î¦Ì~8èÿ¥Îê1HøRMAJORZ
+CODE_SMELL

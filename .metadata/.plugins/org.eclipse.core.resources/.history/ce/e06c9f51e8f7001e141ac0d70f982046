@@ -1,0 +1,55 @@
+package villageGaulois;
+
+import personnages.Gaulois;
+
+public class Etal<T extends IEtal> implements IEtal {
+	private Gaulois vendeur;
+	private T[] produit;
+	private int nbProduit;
+	private int prixProduit;
+	
+	public void installerVendeur(Gaulois vendeur, T[] produitAVendre, int prix) {
+		this.vendeur = vendeur;
+		this.prixProduit = prix;
+		this.nbProduit = produitAVendre.length;
+		this.produit = produitAVendre;
+	}
+	
+	@Override
+	public Gaulois getVendeur() {
+		// TODO Auto-generated method stub
+		return vendeur;
+	}
+
+	@Override
+	public double donnerPrix() {
+		// TODO Auto-generated method stub
+		return prixProduit;
+	}
+
+	@Override
+	public int contientProduit(String produit, int quantiteSouhaitee) {
+		int quantiteAVendre = 0;
+		if (nbProduit != 0 && this.produits[0].getNom().equals(produit)) {
+			if (nbProduit >= quantiteSouhaitee) {
+				quantiteAVendre = quantiteSouhaitee;
+			} else {
+				quantiteAVendre = nbProduit;
+			}
+		}
+		return quantiteAVendre;
+	}
+
+	@Override
+	public double acheterProduit(int quantiteSouhaitee) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public String etatEtal() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

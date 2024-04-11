@@ -1,0 +1,17 @@
+package produit;
+
+import personnages.Gaulois;
+
+public class Sanglier extends Produit{
+	private Gaulois chasseur;
+	private int poids
+	
+	public Sanglier(String nom,Gaulois chasseur) {
+		super(nom,Unite.KILOGRAMME);
+		this.chasseur = chasseur;
+	}
+	
+	public String getDescription() {
+		return 
+	}
+}
